@@ -45,7 +45,7 @@ public class PlaceDatabaseServiceImpl implements PlacesService  {
 	}
 
 	@Override
-	public Places fingById(int id) {
+	public Places findById(int id) {
 		Places pl=placesRepository.findOne(id);
 		return pl;
 

@@ -16,8 +16,8 @@ import org.springframework.http.ResponseEntity;
 import com.StackRoute.Goplaces.MainApp;
 import com.StackRoute.Goplaces.domain.Places;
 import org.springframework.test.context.junit4.SpringRunner;
-@RunWith(SpringRunner.class)
 
+@RunWith(SpringRunner.class)
 @SpringBootTest(classes = MainApp.class, webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 
 public class PlaceControllerTest {

@@ -10,5 +10,5 @@ public interface PlacesService {
     public Places save(Places place);
     public String update(Places place);
 	public String delete(Places place);
-	public Places fingById(int id);
+	public Places findById(int id);
 }

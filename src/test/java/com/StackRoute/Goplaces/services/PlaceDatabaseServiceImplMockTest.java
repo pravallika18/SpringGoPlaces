@@ -34,7 +34,7 @@ public class PlaceDatabaseServiceImplMockTest {
        // Arrange
        when(placeRepository.findOne(5)).thenReturn(place);
        // Act
-      Places retrievedPlace = placeDbServiceImpl.fingById(5);
+      Places retrievedPlace = placeDbServiceImpl.findById(5);
        // Assert
        assertThat(retrievedPlace, is(equalTo(place)));
 

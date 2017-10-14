@@ -107,7 +107,7 @@ public class PlaceController {
 	getById(@Requestparam int id) (/1) **/
 	
 	public ResponseEntity<Places> getById(@PathVariable int id)  {
-		Places place=placesService.fingById(id);
+		Places place=placesService.findById(id);
 		
 		return ResponseEntity.ok(place);
 	
