@@ -1,0 +1,11 @@
+/home/user/Desktop/workspace/spring1/Goplaces/src/main/java/com/StackRoute/Goplaces/Exception/PlaceNameIsRequiredException.java
+/home/user/Desktop/workspace/spring1/Goplaces/src/main/java/com/StackRoute/Goplaces/MainApp.java
+/home/user/Desktop/workspace/spring1/Goplaces/src/main/java/com/stackRoute/Goplaces/repositories/PlacesRepository.java
+/home/user/Desktop/workspace/spring1/Goplaces/src/main/java/com/stackRoute/Goplaces/repositories/PlacesMysqlRepository.java
+/home/user/Desktop/workspace/spring1/Goplaces/src/main/java/com/StackRoute/Goplaces/services/PlaceDatabaseServiceImpl.java
+/home/user/Desktop/workspace/spring1/Goplaces/src/main/java/com/StackRoute/Goplaces/services/PlaceMemoryService.java
+/home/user/Desktop/workspace/spring1/Goplaces/src/main/java/com/StackRoute/Goplaces/domain/Places.java
+/home/user/Desktop/workspace/spring1/Goplaces/src/main/java/com/StackRoute/Goplaces/services/PlacesService.java
+/home/user/Desktop/workspace/spring1/Goplaces/src/main/java/com/StackRoute/Goplaces/Exception/PlaceNotFoundException.java
+/home/user/Desktop/workspace/spring1/Goplaces/src/main/java/com/StackRoute/Goplaces/Exception/PlaceAlredyExist.java
+/home/user/Desktop/workspace/spring1/Goplaces/src/main/java/com/StackRoute/Goplaces/controllers/PlaceController.java
